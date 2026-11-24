@@ -11,6 +11,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [A word for testing a trading rule: deterministic](en/05-deterministic-glossary.md)
 - [Paper trading is only a control if it runs on the same path as real orders](en/06-paper-is-a-control.md)
 - [A word for testing a trading rule: the sealed layout (train, test, held, reserve)](en/07-sealed-layout-glossary.md)
+- [A word for testing a trading rule: the simpler way](en/08-simpler-way-glossary.md)
 
 ## Español
 
@@ -21,6 +22,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [Una palabra para poner a prueba una regla de trading: determinista](es/05-deterministic-glossary.md)
 - [Operar en papel solo sirve de control si sigue el mismo camino que las órdenes reales](es/06-paper-is-a-control.md)
 - [Una palabra para poner a prueba una regla de trading: la disposición sellada (entrenamiento, prueba, retenido, reserva)](es/07-sealed-layout-glossary.md)
+- [Una palabra para poner a prueba una regla de trading: la forma más simple](es/08-simpler-way-glossary.md)
 
 ## Português
 
@@ -31,6 +33,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [Uma palavra para testar uma regra de negociação: determinístico](pt/05-deterministic-glossary.md)
 - [Operar em papel só serve de controle se seguir o mesmo caminho das ordens reais](pt/06-paper-is-a-control.md)
 - [Uma palavra para testar uma regra de negociação: a disposição selada (treino, teste, retido, reserva)](pt/07-sealed-layout-glossary.md)
+- [Uma palavra para testar uma regra de negociação: a forma mais simples](pt/08-simpler-way-glossary.md)
 
 ## Deutsch
 
@@ -41,6 +44,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [Ein Begriff für die Prüfung einer Handelsregel: deterministisch](de/05-deterministic-glossary.md)
 - [Papierhandel ist nur dann eine Kontrolle, wenn er denselben Weg nimmt wie echte Orders](de/06-paper-is-a-control.md)
 - [Ein Begriff für die Prüfung einer Handelsregel: die versiegelte Anordnung (Training, Test, Zurückgehalten, Reserve)](de/07-sealed-layout-glossary.md)
+- [Ein Begriff für die Prüfung einer Handelsregel: die einfachere Art](de/08-simpler-way-glossary.md)
 
 ## 日本語
 
@@ -51,6 +55,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [取引ルールを確かめるためのもう一つの言葉：決定的（同じ入力から同じ答え）](ja/05-deterministic-glossary.md)
 - [ペーパートレードが対照実験になるのは、本番の注文と同じ経路を通るときだけ](ja/06-paper-is-a-control.md)
 - [取引ルールを確かめるための言葉：封をした分け方（学習、テスト、ホールド、リザーブ）](ja/07-sealed-layout-glossary.md)
+- [取引ルールを確かめるための言葉：より単純なやり方](ja/08-simpler-way-glossary.md)
 
 ## 한국어
 
@@ -61,5 +66,6 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [거래 규칙을 검증하는 또 하나의 말: 결정적(같은 입력, 같은 답)](ko/05-deterministic-glossary.md)
 - [페이퍼 트레이딩이 대조군이 되려면 실제 주문과 같은 경로를 지나야 합니다](ko/06-paper-is-a-control.md)
 - [거래 규칙을 검증하는 말: 봉인된 배치(학습, 테스트, 홀드, 리저브)](ko/07-sealed-layout-glossary.md)
+- [거래 규칙을 검증하는 말: 더 단순한 방법](ko/08-simpler-way-glossary.md)
 
 Software, not financial advice. Trading carries a substantial risk of loss.
