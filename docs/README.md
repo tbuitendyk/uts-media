@@ -12,6 +12,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [Paper trading is only a control if it runs on the same path as real orders](en/06-paper-is-a-control.md)
 - [A word for testing a trading rule: the sealed layout (train, test, held, reserve)](en/07-sealed-layout-glossary.md)
 - [A word for testing a trading rule: the simpler way](en/08-simpler-way-glossary.md)
+- [A word for testing a trading rule: the planted pattern](en/09-planted-pattern-glossary.md)
 
 ## Español
 
@@ -23,6 +24,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [Operar en papel solo sirve de control si sigue el mismo camino que las órdenes reales](es/06-paper-is-a-control.md)
 - [Una palabra para poner a prueba una regla de trading: la disposición sellada (entrenamiento, prueba, retenido, reserva)](es/07-sealed-layout-glossary.md)
 - [Una palabra para poner a prueba una regla de trading: la forma más simple](es/08-simpler-way-glossary.md)
+- [Una palabra para poner a prueba una regla de trading: el patrón plantado](es/09-planted-pattern-glossary.md)
 
 ## Português
 
@@ -34,6 +36,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [Operar em papel só serve de controle se seguir o mesmo caminho das ordens reais](pt/06-paper-is-a-control.md)
 - [Uma palavra para testar uma regra de negociação: a disposição selada (treino, teste, retido, reserva)](pt/07-sealed-layout-glossary.md)
 - [Uma palavra para testar uma regra de negociação: a forma mais simples](pt/08-simpler-way-glossary.md)
+- [Uma palavra para testar uma regra de negociação: o padrão plantado](pt/09-planted-pattern-glossary.md)
 
 ## Deutsch
 
@@ -45,6 +48,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [Papierhandel ist nur dann eine Kontrolle, wenn er denselben Weg nimmt wie echte Orders](de/06-paper-is-a-control.md)
 - [Ein Begriff für die Prüfung einer Handelsregel: die versiegelte Anordnung (Training, Test, Zurückgehalten, Reserve)](de/07-sealed-layout-glossary.md)
 - [Ein Begriff für die Prüfung einer Handelsregel: die einfachere Art](de/08-simpler-way-glossary.md)
+- [Ein Begriff für die Prüfung einer Handelsregel: das gepflanzte Muster](de/09-planted-pattern-glossary.md)
 
 ## 日本語
 
@@ -56,6 +60,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [ペーパートレードが対照実験になるのは、本番の注文と同じ経路を通るときだけ](ja/06-paper-is-a-control.md)
 - [取引ルールを確かめるための言葉：封をした分け方（学習、テスト、ホールド、リザーブ）](ja/07-sealed-layout-glossary.md)
 - [取引ルールを確かめるための言葉：より単純なやり方](ja/08-simpler-way-glossary.md)
+- [取引ルールを確かめるための言葉：仕込んだパターン](ja/09-planted-pattern-glossary.md)
 
 ## 한국어
 
@@ -67,5 +72,6 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [페이퍼 트레이딩이 대조군이 되려면 실제 주문과 같은 경로를 지나야 합니다](ko/06-paper-is-a-control.md)
 - [거래 규칙을 검증하는 말: 봉인된 배치(학습, 테스트, 홀드, 리저브)](ko/07-sealed-layout-glossary.md)
 - [거래 규칙을 검증하는 말: 더 단순한 방법](ko/08-simpler-way-glossary.md)
+- [거래 규칙을 검증하는 말: 심어 둔 패턴](ko/09-planted-pattern-glossary.md)
 
 Software, not financial advice. Trading carries a substantial risk of loss.
