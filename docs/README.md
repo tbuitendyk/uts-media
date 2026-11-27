@@ -14,6 +14,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [A word for testing a trading rule: the simpler way](en/08-simpler-way-glossary.md)
 - [A word for testing a trading rule: the planted pattern](en/09-planted-pattern-glossary.md)
 - [A word for testing a trading rule: reserve](en/10-reserve-glossary.md)
+- [A word for testing a trading rule: the greenlight](en/11-greenlight-glossary.md)
 
 ## Español
 
@@ -27,6 +28,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [Una palabra para poner a prueba una regla de trading: la forma más simple](es/08-simpler-way-glossary.md)
 - [Una palabra para poner a prueba una regla de trading: el patrón plantado](es/09-planted-pattern-glossary.md)
 - [Una palabra para poner a prueba una regla de trading: la reserva](es/10-reserve-glossary.md)
+- [Una palabra para poner a prueba una regla de trading: el greenlight](es/11-greenlight-glossary.md)
 
 ## Português
 
@@ -40,6 +42,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [Uma palavra para testar uma regra de negociação: a forma mais simples](pt/08-simpler-way-glossary.md)
 - [Uma palavra para testar uma regra de negociação: o padrão plantado](pt/09-planted-pattern-glossary.md)
 - [Uma palavra para testar uma regra de negociação: a reserva](pt/10-reserve-glossary.md)
+- [Uma palavra para testar uma regra de negociação: o greenlight](pt/11-greenlight-glossary.md)
 
 ## Deutsch
 
@@ -53,6 +56,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [Ein Begriff für die Prüfung einer Handelsregel: die einfachere Art](de/08-simpler-way-glossary.md)
 - [Ein Begriff für die Prüfung einer Handelsregel: das gepflanzte Muster](de/09-planted-pattern-glossary.md)
 - [Ein Begriff für die Prüfung einer Handelsregel: die Reserve](de/10-reserve-glossary.md)
+- [Ein Begriff für die Prüfung einer Handelsregel: das Greenlight](de/11-greenlight-glossary.md)
 
 ## 日本語
 
@@ -66,6 +70,7 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [取引ルールを確かめるための言葉：より単純なやり方](ja/08-simpler-way-glossary.md)
 - [取引ルールを確かめるための言葉：仕込んだパターン](ja/09-planted-pattern-glossary.md)
 - [取引ルールを確かめるための言葉：リザーブ](ja/10-reserve-glossary.md)
+- [取引ルールを確かめるための言葉：グリーンライト](ja/11-greenlight-glossary.md)
 
 ## 한국어
 
@@ -79,5 +84,6 @@ Plain articles on testing whether a trading rule is real or luck, from [Ultimate
 - [거래 규칙을 검증하는 말: 더 단순한 방법](ko/08-simpler-way-glossary.md)
 - [거래 규칙을 검증하는 말: 심어 둔 패턴](ko/09-planted-pattern-glossary.md)
 - [거래 규칙을 검증하는 말: 리저브](ko/10-reserve-glossary.md)
+- [거래 규칙을 검증하는 말: 그린라이트](ko/11-greenlight-glossary.md)
 
 Software, not financial advice. Trading carries a substantial risk of loss.
